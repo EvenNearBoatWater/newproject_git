@@ -1,11 +1,11 @@
 package com.bigstudent.model;
 
 public class BigStudentModel {
-	private int Id;
-	private String name;
-	private int age;
-	private int sex;
-	private String address;
+	private int Id;//学号
+	private String name;//姓名
+	private int age;//年龄
+	private int sex;//性别
+	private String address;//家庭地址
 	
 	
 	
